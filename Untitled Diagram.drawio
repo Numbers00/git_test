@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T09:43:13.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="UslPKoWHpr9aZOvLLo2j" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T09:47:30.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="0FSMH8jKkD35oCLgL5Nv" version="17.4.5" type="github">
   <diagram id="diFwN7pn9ZgPSL2D3D19" name="Page-1">
     <mxGraphModel dx="723" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
         <mxCell id="mYWsddYuptyJ_R3F1crm-40" value="Write another prescription" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="580" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mYWsddYuptyJ_R3F1crm-46" value="Nurse Station" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mYWsddYuptyJ_R3F1crm-46" value="Pharmacy Station" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mYWsddYuptyJ_R3F1crm-47" value="Hospital" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
